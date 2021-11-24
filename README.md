@@ -16,7 +16,7 @@ PHP cкрипт для поиска файлов на WEB-сервере.
 |-------------|--------------------|
 |MasterCard   |5536913764519985    |
 |ЮMoney       |4100 1174 4118 863  |
-|paypal       |[paypal.me/88SadCat88](paypal.me/88SadCat88)|
+|paypal       |[paypal.me/88SadCat88](https://paypal.me/88SadCat88)|
 
 
 ## Лицензия
